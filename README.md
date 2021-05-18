@@ -1,1 +1,1 @@
-ejemplo_latex
+# Imagen para producir documentos PDF mediante LaTeX
